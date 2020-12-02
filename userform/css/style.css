@@ -1,0 +1,9 @@
+input[type="name"] {
+    padding: 15px;
+    border: 1px solid #dcd7ca;
+    margin-bottom: 33px;
+    width: 100%;
+}
+input#contact-form {
+    margin-top: 20px;
+}
